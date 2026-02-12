@@ -73,7 +73,7 @@ motto      : "Growth means nothing if it isn't shared."
     <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=J3-84Ya-Work&show_icons=true&bg_color=0B0B0F&title_color=C4B5FD&text_color=FFFFFF&icon_color=7C3AED&border_color=1E1E2E&hide_border=false&count_private=true&ring_color=7C3AED" />
   </picture>
   <picture>
-    <img width="48%" src="https://streak-stats.demolab.com?user=J3-84Ya-Work&background=0B0B0F&ring=7C3AED&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&border=1E1E2E" />
+    <img width="48%" src="https://streak-stats.demolab.com?user=J3-84Ya-Work&background=0B0B0F&ring=7C3AED&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&border=1E1E2E&cache=v2" />
   </picture>
 </div>
 
