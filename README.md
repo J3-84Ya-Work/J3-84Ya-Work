@@ -1,3 +1,4 @@
+<!-- Profile README -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0F,7C3AED,C4B5FD&height=180&section=header&text=Jatin%20Chourasiya&fontSize=40&fontColor=FFFFFF&fontAlignY=32&desc=AI%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descSize=16&descAlignY=52&descColor=C4B5FD"/>
 
 <div align="center">
