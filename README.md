@@ -69,14 +69,20 @@ motto      : "Growth means nothing if it isn't shared."
 ### `// github_stats`
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=J3-84Ya-Work&show_icons=true&bg_color=0B0B0F&title_color=C4B5FD&text_color=FFFFFF&icon_color=7C3AED&border_color=1E1E2E&hide_border=false&count_private=true&ring_color=7C3AED" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=J3-84Ya-Work&background=0B0B0F&ring=7C3AED&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&border=1E1E2E" />
+  <picture>
+    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=J3-84Ya-Work&show_icons=true&bg_color=0B0B0F&title_color=C4B5FD&text_color=FFFFFF&icon_color=7C3AED&border_color=1E1E2E&hide_border=false&count_private=true&ring_color=7C3AED" />
+  </picture>
+  <picture>
+    <img width="48%" src="https://streak-stats.demolab.com?user=J3-84Ya-Work&background=0B0B0F&ring=7C3AED&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&border=1E1E2E" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J3-84Ya-Work&layout=compact&bg_color=0B0B0F&title_color=C4B5FD&text_color=FFFFFF&border_color=1E1E2E&hide_border=false&langs_count=8" />
+  <picture>
+    <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J3-84Ya-Work&layout=compact&bg_color=0B0B0F&title_color=C4B5FD&text_color=FFFFFF&border_color=1E1E2E&hide_border=false&langs_count=8" />
+  </picture>
 </div>
 
 <br/>
@@ -91,8 +97,8 @@ motto      : "Growth means nothing if it isn't shared."
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=J3-84Ya-Work&repo=Portfolio&bg_color=0B0B0F&title_color=C4B5FD&text_color=a0a0a0&icon_color=7C3AED&border_color=1E1E2E)](https://github.com/J3-84Ya-Work/Portfolio)
-[![KAM-Aproved-UI](https://github-readme-stats.vercel.app/api/pin/?username=J3-84Ya-Work&repo=KAM-Aproved-UI&bg_color=0B0B0F&title_color=C4B5FD&text_color=a0a0a0&icon_color=7C3AED&border_color=1E1E2E)](https://github.com/J3-84Ya-Work/KAM-Aproved-UI)
+[![Portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=J3-84Ya-Work&repo=Portfolio&bg_color=0B0B0F&title_color=C4B5FD&text_color=a0a0a0&icon_color=7C3AED&border_color=1E1E2E)](https://github.com/J3-84Ya-Work/Portfolio)
+[![KAM-Aproved-UI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=J3-84Ya-Work&repo=KAM-Aproved-UI&bg_color=0B0B0F&title_color=C4B5FD&text_color=a0a0a0&icon_color=7C3AED&border_color=1E1E2E)](https://github.com/J3-84Ya-Work/KAM-Aproved-UI)
 
 </div>
 
