@@ -80,14 +80,6 @@ motto      : "Growth means nothing if it isn't shared."
 <br/>
 
 <div align="center">
-  <picture>
-    <img width="38%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=J3-84Ya-Work&layout=compact&bg_color=0B0B0F&title_color=C4B5FD&text_color=FFFFFF&border_color=1E1E2E&hide_border=false&langs_count=8" />
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=J3-84Ya-Work&bg_color=0B0B0F&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=7C3AED20&area=true&hide_border=false&custom_title=Contribution%20Graph&title_color=C4B5FD" />
 </div>
 
