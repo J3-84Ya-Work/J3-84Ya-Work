@@ -5,9 +5,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=FF6B00&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Architecting+Intelligent+Systems;Enterprise+automation+platforms+%26+AI+agents;I+don't+build+features+—+I+build+operational+platforms;Systems+that+think%2C+scale+and+automate)](https://jatinchourasiya.com)
 
-[![Portfolio](https://img.shields.io/badge/jatinchourasiya.com-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jatinchourasiya.com)
+<a href="#"><img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/J3-84Ya-Work/J3-84Ya-Work/output/github-snake.svg" /></a>
 
-<a><img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/J3-84Ya-Work/J3-84Ya-Work/output/github-snake.svg" /></a>
+[![Portfolio](https://img.shields.io/badge/jatinchourasiya.com-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jatinchourasiya.com)
 
 </div>
 
