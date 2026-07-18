@@ -11,6 +11,8 @@
 
 <br/>
 
+**Jatin Chourasiya** is an **AI & Automation Systems Architect** at **Indas Analytics**, Indore, India — designing enterprise automation platforms, AI agents, real-time computer vision systems, and scalable backends with .NET, Python, MSSQL, Redis, Next.js, Flutter, and React Native. M.Tech in Artificial Intelligence & Machine Learning. Full portfolio and case studies at **[jatinchourasiya.com](https://jatinchourasiya.com)**.
+
 ```yaml
 name       : Jatin Chourasiya
 role       : AI & Automation Systems Architect
@@ -106,17 +108,29 @@ Unified mobile & desktop experiences on shared architecture.
 
 ---
 
+### `// by_the_numbers`
+
+<div align="center">
+
+![Systems Architected](https://img.shields.io/badge/6%2B-Systems_Architected-050505?style=for-the-badge&labelColor=FF6B00)
+![Technologies in Production](https://img.shields.io/badge/12%2B-Technologies_in_Production-050505?style=for-the-badge&labelColor=FF6B00)
+![Built From Scratch](https://img.shields.io/badge/100%25-Built_From_Scratch-050505?style=for-the-badge&labelColor=FF6B00)
+
+</div>
+
+---
+
 ### `// github_stats`
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=J3-84Ya-Work&show_icons=true&bg_color=050505&title_color=FF6B00&text_color=F5F5F5&icon_color=FF8C33&border_color=1A1A1A&count_private=true&ring_color=FF6B00" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=J3-84Ya-Work&background=050505&ring=FF6B00&fire=FF8C33&currStreakLabel=FF8C33&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=666666&border=1A1A1A&cache=v3" />
+  <img width="48%" alt="Jatin Chourasiya GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=J3-84Ya-Work&show_icons=true&bg_color=050505&title_color=FF6B00&text_color=F5F5F5&icon_color=FF8C33&border_color=1A1A1A&count_private=true&ring_color=FF6B00" />
+  <img width="48%" alt="Jatin Chourasiya contribution streak" src="https://streak-stats.demolab.com?user=J3-84Ya-Work&background=050505&ring=FF6B00&fire=FF8C33&currStreakLabel=FF8C33&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=666666&border=1A1A1A&cache=v3" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=J3-84Ya-Work&bg_color=050505&color=FF8C33&line=FF6B00&point=F5F5F5&area_color=FF6B00&area=true&hide_border=false&custom_title=Contribution%20Graph&title_color=FF6B00" />
+  <img width="95%" alt="Jatin Chourasiya contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=J3-84Ya-Work&bg_color=050505&color=FF8C33&line=FF6B00&point=F5F5F5&area_color=FF6B00&area=true&hide_border=false&custom_title=Contribution%20Graph&title_color=FF6B00" />
 </div>
 
 ---
@@ -144,6 +158,12 @@ _Most of my enterprise work is private — full case studies at [jatinchourasiya
 [![Instagram](https://img.shields.io/badge/whereareyoujatin-050505?style=flat-square&logo=instagram&logoColor=FF8C33)](https://www.instagram.com/whereareyoujatin)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-FF6B00?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/916263235861)
 
+</div>
+
+---
+
+<div align="center">
+  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/J3-84Ya-Work/J3-84Ya-Work/output/github-snake.svg" />
 </div>
 
 ---
