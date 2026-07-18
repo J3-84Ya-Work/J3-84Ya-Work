@@ -7,7 +7,7 @@
 
 [![Portfolio](https://img.shields.io/badge/jatinchourasiya.com-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jatinchourasiya.com)
 
-<img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/J3-84Ya-Work/J3-84Ya-Work/output/github-snake.svg" />
+<a><img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/J3-84Ya-Work/J3-84Ya-Work/output/github-snake.svg" /></a>
 
 </div>
 
