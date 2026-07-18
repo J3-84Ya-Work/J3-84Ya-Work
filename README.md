@@ -1,9 +1,11 @@
-<!-- Profile README -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0F,7C3AED,C4B5FD&height=180&section=header&text=Jatin%20Chourasiya&fontSize=40&fontColor=FFFFFF&fontAlignY=32&desc=AI%20Engineer%20%E2%80%A2%20Building%20Intelligent%20Systems&descSize=16&descAlignY=52&descColor=C4B5FD"/>
+<!-- Profile README — brand-matched to jatinchourasiya.com (black #050505 / orange #FF6B00) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:FF6B00,100:FF8C33&height=180&section=header&text=Jatin%20Chourasiya&fontSize=42&fontColor=F5F5F5&fontAlignY=32&desc=AI%20%26%20Automation%20Systems%20Architect&descSize=16&descAlignY=52&descColor=FFD9BD"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=550&height=45&lines=AI-Driven+Business+Automation+%26+Advisor;Building+intelligent+automation+solutions;Powered+by+AI%2C+Driven+by+Strategy)](https://github.com/J3-84Ya-Work)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=FF6B00&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Architecting+Intelligent+Systems;Enterprise+automation+platforms+%26+AI+agents;I+don't+build+features+—+I+build+operational+platforms;Systems+that+think%2C+scale+and+automate)](https://jatinchourasiya.com)
+
+[![Portfolio](https://img.shields.io/badge/jatinchourasiya.com-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jatinchourasiya.com)
 
 </div>
 
@@ -11,13 +13,62 @@
 
 ```yaml
 name       : Jatin Chourasiya
-role       : AI Engineer | AI-Driven Business Automation & Advisor
+role       : AI & Automation Systems Architect
+company    : Indas Analytics
 location   : Indore, Madhya Pradesh, India
-education  : B.Tech CSE — SISTec, Gandhinagar, Bhopal
-focus      : Intelligent Automation, LLMs, Full-Stack AI Applications
-available  : Worldwide
-motto      : "Growth means nothing if it isn't shared."
+education  : M.Tech — Artificial Intelligence & Machine Learning
+focus      : Enterprise Automation, AI Agents, Real-Time Vision, Scalable Backends
+motto      : "Eliminate manual complexity."
 ```
+
+```bash
+$ systems --status
+  systems         : operational
+  ai_agents       : active
+  queue           : processing_jobs
+  vision_pipeline : streaming
+  scheduler       : optimizing_tasks
+  availability    : open_for_projects
+```
+
+---
+
+### `// what_i_build`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ Enterprise Automation**
+Modular backend-driven platforms — CRM, HRM, order & operations — replacing fragmented manual workflows.
+`.NET` `MSSQL` `Redis` `Next.js`
+
+**🧠 AI Scheduling Engine**
+Constraint-aware, algorithm-driven task allocation for manufacturing with real-time reallocation.
+`Python` `.NET` `Queue Processing`
+
+**👁️ Real-Time AI Systems**
+Live inference pipelines — vehicle detection & attendance automation from streaming video.
+`Computer Vision` `Python` `AI/ML`
+
+</td>
+<td width="50%" valign="top">
+
+**🏭 Manufacturing Automation**
+Production workflow digitization — process modeling turned into operational infrastructure.
+`.NET` `MSSQL` `Workflow Engine`
+
+**💬 Intelligent Communication**
+AI-powered WhatsApp agents with autonomous workflow triggers and conversation routing.
+`AI Agents` `WhatsApp API` `Automation`
+
+**📱 Cross-Platform Applications**
+Unified mobile & desktop experiences on shared architecture.
+`Flutter` `React Native` `.NET MAUI`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -25,42 +76,31 @@ motto      : "Growth means nothing if it isn't shared."
 
 <div align="center">
 
-**AI / ML / Deep Learning**
+**Backend & Data**
 
-![Python](https://img.shields.io/badge/Python-7C3AED?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0B0B0F?style=flat-square&logo=tensorflow&logoColor=A78BFA)
-![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=flat-square&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0B0B0F?style=flat-square&logo=scikitlearn&logoColor=A78BFA)
-![NumPy](https://img.shields.io/badge/NumPy-7C3AED?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-0B0B0F?style=flat-square&logo=pandas&logoColor=A78BFA)
-![OpenCV](https://img.shields.io/badge/OpenCV-7C3AED?style=flat-square&logo=opencv&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-FF6B00?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-050505?style=flat-square&logo=sharp&logoColor=FF8C33)
+![Python](https://img.shields.io/badge/Python-FF6B00?style=flat-square&logo=python&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-050505?style=flat-square&logo=microsoftsqlserver&logoColor=FF8C33)
+![Redis](https://img.shields.io/badge/Redis-FF6B00?style=flat-square&logo=redis&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-050505?style=flat-square&logo=fastapi&logoColor=FF8C33)
 
-**LLMs / GenAI**
+**AI & Automation**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-0B0B0F?style=flat-square&logo=openai&logoColor=C4B5FD)
-![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square&logo=chainlink&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0B0B0F?style=flat-square&logo=huggingface&logoColor=C4B5FD)
-![Ollama](https://img.shields.io/badge/Ollama-7C3AED?style=flat-square&logo=meta&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B00?style=flat-square&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-050505?style=flat-square&logo=opencv&logoColor=FF8C33)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B00?style=flat-square&logo=pytorch&logoColor=white)
+![WhatsApp Automation](https://img.shields.io/badge/WhatsApp%20Automation-050505?style=flat-square&logo=whatsapp&logoColor=FF8C33)
+![Queue Processing](https://img.shields.io/badge/Queue%20Processing-FF6B00?style=flat-square&logo=rabbitmq&logoColor=white)
 
 **Frontend & Mobile**
 
-![React](https://img.shields.io/badge/React-0B0B0F?style=flat-square&logo=react&logoColor=A78BFA)
-![Next.js](https://img.shields.io/badge/Next.js-7C3AED?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0B0F?style=flat-square&logo=typescript&logoColor=A78BFA)
-![JavaScript](https://img.shields.io/badge/JavaScript-7C3AED?style=flat-square&logo=javascript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0B0B0F?style=flat-square&logo=tailwindcss&logoColor=A78BFA)
-![Flutter](https://img.shields.io/badge/Flutter-7C3AED?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0B0B0F?style=flat-square&logo=dart&logoColor=A78BFA)
-
-**Backend & Tools**
-
-![Node.js](https://img.shields.io/badge/Node.js-7C3AED?style=flat-square&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B0B0F?style=flat-square&logo=mongodb&logoColor=A78BFA)
-![Firebase](https://img.shields.io/badge/Firebase-7C3AED?style=flat-square&logo=firebase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0B0B0F?style=flat-square&logo=docker&logoColor=A78BFA)
-![Git](https://img.shields.io/badge/Git-7C3AED?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0B0B0F?style=flat-square&logo=linux&logoColor=A78BFA)
-![GCP](https://img.shields.io/badge/Google%20Cloud-7C3AED?style=flat-square&logo=googlecloud&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-050505?style=flat-square&logo=nextdotjs&logoColor=FF8C33)
+![React](https://img.shields.io/badge/React-FF6B00?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-050505?style=flat-square&logo=typescript&logoColor=FF8C33)
+![Flutter](https://img.shields.io/badge/Flutter-FF6B00?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-050505?style=flat-square&logo=react&logoColor=FF8C33)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-FF6B00?style=flat-square&logo=dotnet&logoColor=white)
 
 </div>
 
@@ -69,28 +109,26 @@ motto      : "Growth means nothing if it isn't shared."
 ### `// github_stats`
 
 <div align="center">
-  <picture>
-    <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=J3-84Ya-Work&show_icons=true&bg_color=0B0B0F&title_color=C4B5FD&text_color=FFFFFF&icon_color=7C3AED&border_color=1E1E2E&hide_border=false&count_private=true&ring_color=7C3AED" />
-  </picture>
-  <picture>
-    <img width="48%" src="https://streak-stats.demolab.com?user=J3-84Ya-Work&background=0B0B0F&ring=7C3AED&fire=C4B5FD&currStreakLabel=A78BFA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=666666&border=1E1E2E&cache=v2" />
-  </picture>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=J3-84Ya-Work&show_icons=true&bg_color=050505&title_color=FF6B00&text_color=F5F5F5&icon_color=FF8C33&border_color=1A1A1A&count_private=true&ring_color=FF6B00" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=J3-84Ya-Work&background=050505&ring=FF6B00&fire=FF8C33&currStreakLabel=FF8C33&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=666666&border=1A1A1A&cache=v3" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=J3-84Ya-Work&bg_color=0B0B0F&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=7C3AED20&area=true&hide_border=false&custom_title=Contribution%20Graph&title_color=C4B5FD" />
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=J3-84Ya-Work&bg_color=050505&color=FF8C33&line=FF6B00&point=F5F5F5&area_color=FF6B00&area=true&hide_border=false&custom_title=Contribution%20Graph&title_color=FF6B00" />
 </div>
 
 ---
 
-### `// featured_projects`
+### `// featured_repos`
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=J3-84Ya-Work&repo=Portfolio&bg_color=0B0B0F&title_color=C4B5FD&text_color=a0a0a0&icon_color=7C3AED&border_color=1E1E2E)](https://github.com/J3-84Ya-Work/Portfolio)
-[![KAM-Aproved-UI](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=J3-84Ya-Work&repo=KAM-Aproved-UI&bg_color=0B0B0F&title_color=C4B5FD&text_color=a0a0a0&icon_color=7C3AED&border_color=1E1E2E)](https://github.com/J3-84Ya-Work/KAM-Aproved-UI)
+[![handloom-crm](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=J3-84Ya-Work&repo=handloom-crm&bg_color=050505&title_color=FF6B00&text_color=a0a0a0&icon_color=FF8C33&border_color=1A1A1A)](https://github.com/J3-84Ya-Work/handloom-crm)
+[![HandwritingExtractor](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=J3-84Ya-Work&repo=HandwritingExtractor&bg_color=050505&title_color=FF6B00&text_color=a0a0a0&icon_color=FF8C33&border_color=1A1A1A)](https://github.com/J3-84Ya-Work/HandwritingExtractor)
+
+_Most of my enterprise work is private — full case studies at [jatinchourasiya.com/projects](https://jatinchourasiya.com/projects)_
 
 </div>
 
@@ -100,10 +138,11 @@ motto      : "Growth means nothing if it isn't shared."
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/jatin84ya@gmail.com-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:jatin84ya@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/jatin--chourasiya-0B0B0F?style=flat-square&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/jatin-chourasiya)
-[![LeetCode](https://img.shields.io/badge/LeetCode-7C3AED?style=flat-square&logo=leetcode&logoColor=white)](https://www.leetcode.com/jatin-chourasiya)
-[![CodeChef](https://img.shields.io/badge/CodeChef-0B0B0F?style=flat-square&logo=codechef&logoColor=A78BFA)](https://www.codechef.com/jatin-chourasiya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B00?style=flat-square&logo=googlechrome&logoColor=white)](https://jatinchourasiya.com)
+[![Email](https://img.shields.io/badge/hello@jatinchourasiya.com-050505?style=flat-square&logo=gmail&logoColor=FF8C33)](mailto:hello@jatinchourasiya.com)
+[![LinkedIn](https://img.shields.io/badge/jatinchourasiya-FF6B00?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatinchourasiya)
+[![Instagram](https://img.shields.io/badge/whereareyoujatin-050505?style=flat-square&logo=instagram&logoColor=FF8C33)](https://www.instagram.com/whereareyoujatin)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-FF6B00?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/916263235861)
 
 </div>
 
@@ -111,8 +150,8 @@ motto      : "Growth means nothing if it isn't shared."
 
 <div align="center">
 
-![Views](https://komarev.com/ghpvc/?username=J3-84Ya-Work&color=7C3AED&style=flat-square&label=Profile+Views)
+![Views](https://komarev.com/ghpvc/?username=J3-84Ya-Work&color=FF6B00&style=flat-square&label=Profile+Views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B0B0F,7C3AED,C4B5FD&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:FF6B00,100:FF8C33&height=100&section=footer"/>
 
 </div>
