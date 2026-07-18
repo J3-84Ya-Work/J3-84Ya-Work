@@ -1,5 +1,5 @@
 <!-- Profile README — brand-matched to jatinchourasiya.com (black #050505 / orange #FF6B00) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:FF6B00,100:FF8C33&height=180&section=header&text=Jatin%20Chourasiya&fontSize=42&fontColor=F5F5F5&fontAlignY=32&desc=AI%20%26%20Automation%20Systems%20Architect&descSize=16&descAlignY=52&descColor=FFD9BD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:FF6B00,100:FF8C33&height=180&section=header&text=Jatin%20Chourasiya&fontSize=42&fontColor=F5F5F5&fontAlignY=32&desc=AI%20%26amp%3B%20Automation%20Systems%20Architect&descSize=16&descAlignY=52&descColor=FFD9BD"/>
 
 <div align="center">
 
