@@ -7,6 +7,8 @@
 
 [![Portfolio](https://img.shields.io/badge/jatinchourasiya.com-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://jatinchourasiya.com)
 
+<img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/J3-84Ya-Work/J3-84Ya-Work/output/github-snake.svg" />
+
 </div>
 
 <br/>
@@ -158,12 +160,6 @@ _Most of my enterprise work is private — full case studies at [jatinchourasiya
 [![Instagram](https://img.shields.io/badge/whereareyoujatin-050505?style=flat-square&logo=instagram&logoColor=FF8C33)](https://www.instagram.com/whereareyoujatin)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-FF6B00?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/916263235861)
 
-</div>
-
----
-
-<div align="center">
-  <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/J3-84Ya-Work/J3-84Ya-Work/output/github-snake.svg" />
 </div>
 
 ---
