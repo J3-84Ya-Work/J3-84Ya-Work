@@ -13,7 +13,9 @@
 
 <br/>
 
-**Jatin Chourasiya** is an **AI & Automation Systems Architect** at **Indas Analytics**, Indore, India — designing enterprise automation platforms, AI agents, real-time computer vision systems, and scalable backends with .NET, Python, MSSQL, Redis, Next.js, Flutter, and React Native. M.Tech in Artificial Intelligence & Machine Learning. Full portfolio and case studies at **[jatinchourasiya.com](https://jatinchourasiya.com)**.
+> 🧭 **Jatin Chourasiya** — **AI & Automation Systems Architect** @ **Indas Analytics**, Indore, India.
+> Designing enterprise automation platforms, AI agents, real-time computer vision systems, and scalable backends — `.NET` `Python` `MSSQL` `Redis` `Next.js` `Flutter` `React Native`.
+> 🎓 M.Tech, Artificial Intelligence & Machine Learning · 🌐 Case studies → **[jatinchourasiya.com](https://jatinchourasiya.com)**
 
 ```yaml
 name       : Jatin Chourasiya
